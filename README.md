@@ -1,84 +1,58 @@
-# Coffee-Sales-Analysis-
+# ☕ Coffee Sales Analysis Dashboard (Power BI)
 
-
-
-# ☕ Coffee Sales Analysis Dashboard – Power BI Project
-
-## 📊 Project Overview
-This Power BI project delivers a comprehensive dashboard analyzing coffee sales data. The dataset contains transactional sales records from multiple regions, product categories, and customer segments.
-
-The goal of this project is to provide meaningful insights into sales trends, product performance, and customer behavior to help business stakeholders make informed decisions.
+This Power BI project analyzes coffee product sales across multiple store locations, helping identify patterns, peak months, and top-selling products. The dashboard provides a clear and interactive visual representation of the sales performance, empowering stakeholders to make data-driven decisions.
 
 ---
 
-## 🎯 Objectives
-- Track total revenue and profit over time
-- Analyze regional sales performance
-- Identify best-selling coffee products and categories
-- Understand customer buying patterns
-- Detect seasonal trends in coffee sales
+## 🔍 Objective
+
+To uncover key sales trends, product performance, and store-wise insights from the coffee sales dataset using interactive data visualizations.
 
 ---
 
-## 📌 Key Features
+## 📊 Key Features
 
-### 📈 KPI Cards
-- **Total Sales**
-- **Total Profit**
-- **Profit Margin %**
-- **Total Orders**
-- **Top Region**
-- **Top Product Category**
-
-### 📊 Visual Insights
-| Chart | Purpose |
-|-------|---------|
-| Line Chart | Monthly sales and profit trends |
-| Bar Chart | Sales by region and product category |
-| Pie Chart | Sales distribution by customer type |
-| Column Chart | Year-over-year comparison |
-| Table | Detailed view of product performance |
+- **Total Sales:** $698.5K  
+- **Total Orders:** 149K  
+- **Peak Sales Month:** June (35K orders)
 
 ---
 
-## 🧠 Insights Derived
-- Highest sales occur in Q4, indicating strong holiday season demand
-- Espresso and Latte are top-performing products
-- West and Central regions generate the most revenue
-- Retail customers contribute the highest percentage of sales
-- Seasonal promotions and product bundling can further improve profits
+### 📈 Dashboard Visuals
+
+- **Monthly Sales Trend:** View transaction counts by month  
+- **Store-Wise Sales:** Analyze sales distribution across three stores (Hell’s Kitchen, Astoria, Lower Manhattan)  
+- **Product Size Analysis:** Understand product sales by size (Small, Large, Regular, etc.)  
+- **Sales by Product Type:** Identify top-performing items  
+- **Sales by Category:** Discover which category—Coffee, Tea, Bakery—dominates  
+- **Interactive Filters:** Slice data by month, hour, or day for deeper analysis  
 
 ---
 
-## 🔧 Tools Used
-- **Power BI Desktop** for visualization and analysis
-- **Excel** for initial data cleaning and transformation
+## 📁 Files Included
+
+| File Name                        | Description                           |
+|----------------------------------|---------------------------------------|
+| `Coffee Sales Power Bi Dashboard.pbix` | Power BI report/dashboard            |
+| `Coffee SalesExcel Project.xlsx`     | Sales data used for analysis         |
+| `README.md`                          | Project overview and documentation   |
 
 ---
 
-## 📂 Files Included
-| File | Description |
-|------|-------------|
-| `Coffee Sales Power bi dashboard.pbix` | Main Power BI file |
-| `Coffee SalesExcel Project.xlsx` | Source data file |
-| `README.md` | Project documentation |
+## 🚀 Tools Used
+
+- **Power BI** (for data modeling, visualization)
+- **Microsoft Excel** (data cleaning and formatting)
 
 ---
 
-## 🚀 How to Use
-1. Download this repository
-2. Open the `.pbix` file using Power BI Desktop
-3. Interact with the visuals to explore trends and insights
-4. Filter by region, year, product category for deeper analysis
+## 📌 Insights Uncovered
 
----
+- **June** had the highest sales volume  
+- **Hell’s Kitchen** was the best-performing store  
+- **Regular and Large** sizes were most preferred  
+- **Coffee products** led in both category and type  
 
-## 🔍 Future Improvements
-- Integrate predictive forecasting for monthly sales
-- Add drill-through filters for detailed product-level analysis
-- Connect to live sales databases or APIs for real-time reporting
-
----
 
 
 
